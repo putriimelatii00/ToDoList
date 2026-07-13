@@ -1,0 +1,16 @@
+=========================
+PENCARIAN DATA TODO LIST
+=========================
+
+Pencarian dapat dilakukan berdasarkan:
+
+- ID Tugas
+- Nama Tugas
+- Status
+
+Contoh:
+Cari "Belajar Git"
+Hasil:
+ID : 001
+Nama : Belajar Git
+Status : Belum Selesai

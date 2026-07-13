@@ -1,0 +1,16 @@
+=========================
+CRUD DATA TODO LIST
+=========================
+
+Data yang dikelola:
+- ID Tugas
+- Nama Tugas
+- Deskripsi
+- Tanggal
+- Status
+
+Fitur CRUD:
+1. Tambah Tugas
+2. Lihat Daftar Tugas
+3. Ubah Tugas
+4. Hapus Tugas

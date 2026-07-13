@@ -1,0 +1,14 @@
+=========================
+LOGIN TODO LIST
+=========================
+
+Fitur Login Sederhana
+
+Username : admin
+Password : admin123
+
+Langkah Login:
+1. Masukkan username.
+2. Masukkan password.
+3. Tekan tombol Login.
+4. Jika benar maka masuk ke halaman utama.
