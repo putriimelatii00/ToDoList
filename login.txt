@@ -4,8 +4,8 @@ LOGIN TODO LIST
 
 Fitur Login Sederhana
 
-Username : admin
-Password : admin123
+Username : putri
+Password : putri123
 
 Langkah Login:
 1. Masukkan username.
