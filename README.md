@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="banner.png" width="700">
+  <img 
+src="repository-open-graph-template.png" width="700">
 </p>
 
 # ToDoList
