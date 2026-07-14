@@ -98,4 +98,3 @@ ToDoList/
 
 \- Release versi 1.0
 
->>>>>>> c5c2d39 (Melengkapi isi login, data, dan pencarian)
