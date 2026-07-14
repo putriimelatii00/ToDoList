@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-src="github-logo-png_seeklogo-304612.png" width="500">
+src="github-logo-png_seeklogo-304612.png" width="200">
 </p>
 
 # ToDoList
