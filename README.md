@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-src="repository-open-graph-template.png" width="700">
+src="github-logo-png_seeklogo-304612.png" width="700">
 </p>
 
 # ToDoList
